@@ -8,4 +8,5 @@ INSERT INTO pics (name, url, location, is_favorite) VALUES
 ('Jeffrey Deitch Gallery','https://www.artnews.com/wp-content/uploads/2016/03/18wooster.jpg', 'Manhattan', true),
 ('Barclays Center','https://pentagram-production.imgix.net/wp/592c9b36e64dd/mb-barclays-012.jpg?crop=edges&fit=crop&h=630&rect=0%2C28%2C1280%2C798&w=1200', 'Brooklyn', true),
 ('The Lemon Ice King of Corona','https://media-cdn.tripadvisor.com/media/photo-s/1b/54/56/3a/the-lemon-ice-king.jpg', 'Queens', true),
-('L&B Spummoni Gardens','https://64.media.tumblr.com/4e50025bc2cdc31a60c728fdea839c4e/tumblr_inline_pkm60cssAO1uzflh9_1280.jpg', 'Brooklyn', true);
+('L&B Spummoni Gardens','https://64.media.tumblr.com/4e50025bc2cdc31a60c728fdea839c4e/tumblr_inline_pkm60cssAO1uzflh9_1280.jpg', 'Brooklyn', true),
+('MoMAPS1', 'https://kidonthetown.com/wp-content/uploads/bb-plugin/cache/Screen-Shot-2021-10-07-at-1.06.16-PM-square.png', 'Queens', true);
